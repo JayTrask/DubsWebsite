@@ -1,0 +1,24 @@
+body { 
+	background-color: #C4A69D;
+ }
+
+.logo-container{
+	background-color: #615756;
+}
+
+.navbar-color{
+	background-color: #3E000C;
+	color: #615756;
+}
+
+.active-color {
+	background-color: #7B2D26;
+}
+
+.nav-link{
+	color: #615756;
+}
+
+.card-color{
+	background-color: #3E000C;
+}
