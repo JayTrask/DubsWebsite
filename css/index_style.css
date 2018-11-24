@@ -3,7 +3,10 @@ body {
  }
 
 .logo-container{
+	background-image: url("../imgs/header_pic.png");
+	background-size: cover;
 	background-color: #615756;
+	
 }
 
 .navbar-color{
