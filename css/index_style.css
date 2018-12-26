@@ -26,6 +26,20 @@ body {
 	background-color: #3E000C;
 }
 
+.announcements{
+	color: red!important;
+	text-align: center;
+}
+
+.info{
+	color: white;
+	background-color: rgb(0, 0, 0, .7);
+	text-shadow: 0px 0px 2px yellow;
+
+	border: 2px solid rgb(0, 0, 0, .5);
+	border-radius: 4px;
+}
+
 .footer-bs {
     background-color: #3c3d41;
 	padding: 60px 40px;
